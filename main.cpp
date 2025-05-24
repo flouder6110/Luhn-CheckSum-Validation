@@ -13,7 +13,7 @@ int main()
 	int evenCounter = 0;
 
 
-	cout << "Enter a number with even amount of digits: ";
+	cout << "Enter a sequence of numbers : ";
 	digit = cin.get();
 
 	while (digit != 10)
